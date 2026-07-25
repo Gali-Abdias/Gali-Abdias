@@ -1,24 +1,13 @@
-# Hi, I'm Gali Abdias 
+# Hi there, I'm Gali Abdias
 
-Software Engineer | Full-Stack Developer | AI Enthusiast
+Software Engineer | Full-Stack Developer | Proud to be in Tech 
 
-Passionate about building solutions that make an impact through code.
+I'm passionate about technology, software development, and creating solutions through code. I enjoy building applications, exploring new technologies, and continuously improving my skills.
 
-## What I do
-- Full-stack web applications (React, Java, Spring Boot)
-- Backend systems & database design
-- AI/ML exploration
-- Software quality & best practices
+I work with Java, Spring Boot, React, and modern web technologies. I am also interested in Artificial Intelligence, software quality, and innovative solutions.
 
-## Tech Stack
-Java · Spring Boot · React · JavaScript · PostgreSQL · Python · Git
+When I'm not coding, I enjoy music, basketball, gaming, and learning new things.
 
-## I like
- ·  Gaming ·  Innovation ·  Learning
+### Favorite Quote
 
-## Philosophy
-*"Talk is cheap. Show me the code." — Linus Torvalds*
-
-## Connect
-- [LinkedIn](your-link)
-- [GitHub](your-link)
+> "The only way to do great work is to love what you do."  
