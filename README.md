@@ -6,10 +6,10 @@ I'm passionate about technology and software development, and I enjoy building a
 
 ## What I Can Do
 
-- 💻 Build software and solve problems through code
-- 🖥️ Use Git, the terminal, and modern development tools
-- 🌐 Develop, test, and deploy web applications
-- 🔒 Learn and practice application and network security
+- Build software and solve problems through code
+- Use Git, the terminal, and modern development tools
+- Develop, test, and deploy web applications
+- Learn and practice application and network security
 
 ## Links I live by
 
