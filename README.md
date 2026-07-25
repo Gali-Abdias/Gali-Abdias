@@ -16,7 +16,7 @@ I'm passionate about technology and software development, and I enjoy building a
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galiabdiasndaga@yahoo.com)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gali-Abdias)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://gali-abdias.github.io/myportfolio)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-28A745?style=for-the-badge&logo=web&logoColor=white)](https://gali-abdias.github.io/myportfolio)
 
 When I'm not coding, I enjoy music, gaming, and learning new things.
 
