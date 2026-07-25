@@ -2,7 +2,9 @@
 
 Software Engineer | Full-Stack Developer | Proud to be in Tech 
 
-I'm passionate about technology, software development, and creating solutions through code. I enjoy building applications, exploring new technologies, and continuously improving my skills.
+I'm passionate about technology and software development, and I enjoy building applications that solve real-world problems. I'm always learning new technologies, improving my skills, and exploring AI, software quality, and innovative solutions.
+
+I work with Java, JavaScript, Spring Boot, React, and modern web technologies. I'm passionate about AI, software quality, and innovative solutions.
 
 ## Links I live by
 
@@ -11,7 +13,6 @@ I'm passionate about technology, software development, and creating solutions th
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gali-Abdias)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://gali-abdias.github.io/myportfolio)
 
-I work with Java, JavaScript, Spring Boot, React, and modern web technologies. I'm passionate about AI, software quality, and innovative solutions.
 
 When I'm not coding, I enjoy music, gaming, and learning new things.
 
