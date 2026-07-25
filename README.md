@@ -1,47 +1,24 @@
-# Hello, I'm Gali Abdias 
+# Hi, I'm Gali Abdias 👋
 
-(Software Engineering · Full-Stack Development · Artificial Intelligence · Web Technologies)  
-=> Software Engineer · Computer Science Enthusiast · Proud to be in Tech 
+Software Engineer | Full-Stack Developer | AI Enthusiast
 
-Maybe one day... building solutions that make an impact 
+Passionate about building solutions that make an impact through code.
 
-## About Me
+## What I do
+- Full-stack web applications (React, Java, Spring Boot)
+- Backend systems & database design
+- AI/ML exploration
+- Software quality & best practices
 
-I'm passionate about technology, software development, and solving real-world problems through code. I started my journey in programming out of curiosity and continue to grow by exploring different areas of computer science.
+## Tech Stack
+Java · Spring Boot · React · JavaScript · PostgreSQL · Python · Git
 
-I enjoy designing, developing, testing, and improving software systems while learning new technologies and contributing to the tech community.
-
-## What I do:
-
- Build Web Applications  
- Develop Backend Systems with Java & Spring Boot  
- Create Full-Stack Applications using React and modern technologies  
- Design and manage databases (PostgreSQL, MySQL, SQL, MOngoDB)  
- Explore Artificial Intelligence and Machine Learning solutions  
- Learn about Software Quality, Security, and Best Practices  
- Plan, Develop, Test, and Deploy software projects  
-
-## Technologies I work with:
-
-- Java | Spring Boot | Hibernate | JPA
-- JavaScript | React.js | HTML | CSS
-- PostgreSQL | MySQL | SQL
-- Git | GitHub | GitLab
-- Python | Machine Learning basics
-
-## I like:
-   
- Gaming  
- Exploring technology and innovation  
- earning new skills  
+## I like
+ ·  Gaming ·  Innovation ·  Learning
 
 ## Philosophy
+*"Talk is cheap. Show me the code." — Linus Torvalds*
 
-"Talk is cheap. Show me the code."  
-— Linus Torvalds
-
-You can find me on:
-
-LinkedIn: [your-link]  
-GitHub: [your-link]
--->
+## Connect
+- [LinkedIn](your-link)
+- [GitHub](your-link)
