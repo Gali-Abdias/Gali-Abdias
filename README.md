@@ -2,9 +2,14 @@
 
 Software Engineer | Full-Stack Developer | Proud to be in Tech 
 
-I'm passionate about technology and software development, and I enjoy building applications that solve real-world problems. I'm always learning new technologies, improving my skills, and exploring AI, software quality, and innovative solutions.
+I'm passionate about technology and software development, and I enjoy building applications that solve real-world problems. I'm always learning new technologies, improving my skills, and exploring [...]
 
-I work with Java, JavaScript, Spring Boot, React, and modern web technologies. I'm passionate about AI, software quality, and innovative solutions.
+## What I Can Do
+
+- 💻 Build software and solve problems through code
+- 🖥️ Use Git, the terminal, and modern development tools
+- 🌐 Develop, test, and deploy web applications
+- 🔒 Learn and practice application and network security
 
 ## Links I live by
 
@@ -13,9 +18,8 @@ I work with Java, JavaScript, Spring Boot, React, and modern web technologies. I
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gali-Abdias)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://gali-abdias.github.io/myportfolio)
 
-
 When I'm not coding, I enjoy music, gaming, and learning new things.
 
 ### Favorite Quote
 
-> "The only way to do great work is to love what you do."  
+> "The only way to do great work is to love what you do."
