@@ -6,15 +6,13 @@ I'm passionate about technology, software development, and creating solutions th
 
 ## Links I live by
 
-- [Portfolio](https://gali-abdias.github.io/myportfolio) - Check out my projects and work
-- [GitHub](https://github.com/Gali-Abdias) - My code and repositories
-- [LinkedIn](https://linkedin.com/in/your-profile) - Professional connections
-- [Stack Overflow](https://stackoverflow.com/users/your-id) - Helpful coding solutions
-- [Dev.to](https://dev.to/your-username) - Technical blog posts
+- [Portfolio](https://gali-abdias.github.io/myportfolio) 
+- [GitHub](https://github.com/Gali-Abdias)
+- [LinkedIn](https://linkedin.com/in/your-profile)
 
 I work with Java, JavaScript, Spring Boot, React, and modern web technologies. I'm passionate about AI, software quality, and innovative solutions.
 
-When I'm not coding, I enjoy music, basketball, gaming, and learning new things.
+When I'm not coding, I enjoy music, gaming, and learning new things.
 
 ### Favorite Quote
 
