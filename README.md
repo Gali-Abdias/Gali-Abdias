@@ -1,9 +1,9 @@
-# Hello, I'm Gali Abdias 👋
+# Hello, I'm Gali Abdias 
 
 (Software Engineering · Full-Stack Development · Artificial Intelligence · Web Technologies)  
-=> Software Engineer · Computer Science Enthusiast · Proud to be in Tech 🚀
+=> Software Engineer · Computer Science Enthusiast · Proud to be in Tech 
 
-Maybe one day... building solutions that make an impact 🌍
+Maybe one day... building solutions that make an impact 
 
 ## About Me
 
@@ -13,13 +13,13 @@ I enjoy designing, developing, testing, and improving software systems while lea
 
 ## What I do:
 
-💻 Build Web Applications  
-⚙️ Develop Backend Systems with Java & Spring Boot  
-🌐 Create Full-Stack Applications using React and modern technologies  
-🗄️ Design and manage databases (PostgreSQL, MySQL, SQL)  
-🤖 Explore Artificial Intelligence and Machine Learning solutions  
-🔐 Learn about Software Quality, Security, and Best Practices  
-🚀 Plan, Develop, Test, and Deploy software projects  
+ Build Web Applications  
+ Develop Backend Systems with Java & Spring Boot  
+ Create Full-Stack Applications using React and modern technologies  
+ Design and manage databases (PostgreSQL, MySQL, SQL, MOngoDB)  
+ Explore Artificial Intelligence and Machine Learning solutions  
+ Learn about Software Quality, Security, and Best Practices  
+ Plan, Develop, Test, and Deploy software projects  
 
 ## Technologies I work with:
 
@@ -30,12 +30,10 @@ I enjoy designing, developing, testing, and improving software systems while lea
 - Python | Machine Learning basics
 
 ## I like:
-
-🎵 Music  
-🏀 Basketball  
-🎮 Gaming  
-🌍 Exploring technology and innovation  
-📚 Learning new skills  
+   
+ Gaming  
+ Exploring technology and innovation  
+ earning new skills  
 
 ## Philosophy
 
@@ -44,6 +42,6 @@ I enjoy designing, developing, testing, and improving software systems while lea
 
 You can find me on:
 
-💼 LinkedIn: [your-link]  
-🐙 GitHub: [your-link]
+LinkedIn: [your-link]  
+GitHub: [your-link]
 -->
