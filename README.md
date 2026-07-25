@@ -1,4 +1,4 @@
-# Hi, I'm Gali Abdias 👋
+# Hi, I'm Gali Abdias 
 
 Software Engineer | Full-Stack Developer | AI Enthusiast
 
