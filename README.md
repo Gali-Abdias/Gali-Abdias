@@ -22,4 +22,4 @@ When I'm not coding, I enjoy music, gaming, and learning new things.
 
 ### Favorite Quote
 
-> "The only way to do great work is to love what you do."
+> "The only way to do great work is to love what you do."v
